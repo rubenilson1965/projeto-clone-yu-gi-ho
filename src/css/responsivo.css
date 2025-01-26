@@ -5,10 +5,9 @@
     }
 
     .sLider {
-        gap: 10 px;
+        gap: 10px;
     } 
 }
-
 
 @media(max-width: 496px) {
     .lista-personagens{
@@ -33,7 +32,7 @@
     }    
 
     #btn-voltar {
-        right: 20%;
+        left: 20%;
     }    
 }
 
